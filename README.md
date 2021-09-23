@@ -1,0 +1,1 @@
+# Django_stu-council_page
